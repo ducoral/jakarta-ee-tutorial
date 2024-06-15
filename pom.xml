@@ -9,6 +9,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>web-faces-hello1</module>
+        <module>web-servlet-hello2</module>
     </modules>
 
     <properties>

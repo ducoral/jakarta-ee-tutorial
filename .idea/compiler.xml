@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="web-faces-hello1" />
+        <module name="web-servlet-hello2" />
       </profile>
     </annotationProcessing>
   </component>
